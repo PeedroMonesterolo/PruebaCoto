@@ -1,0 +1,12 @@
+C:\Users\Pedro\Desktop\Projects\PruebaCoto\CORE\bin\Debug\net6.0\CORE.deps.json
+C:\Users\Pedro\Desktop\Projects\PruebaCoto\CORE\bin\Debug\net6.0\CORE.dll
+C:\Users\Pedro\Desktop\Projects\PruebaCoto\CORE\bin\Debug\net6.0\CORE.pdb
+C:\Users\Pedro\Desktop\Projects\PruebaCoto\CORE\obj\Debug\net6.0\CORE.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Projects\PruebaCoto\CORE\obj\Debug\net6.0\CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projects\PruebaCoto\CORE\obj\Debug\net6.0\CORE.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projects\PruebaCoto\CORE\obj\Debug\net6.0\CORE.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projects\PruebaCoto\CORE\obj\Debug\net6.0\CORE.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projects\PruebaCoto\CORE\obj\Debug\net6.0\CORE.dll
+C:\Users\Pedro\Desktop\Projects\PruebaCoto\CORE\obj\Debug\net6.0\refint\CORE.dll
+C:\Users\Pedro\Desktop\Projects\PruebaCoto\CORE\obj\Debug\net6.0\CORE.pdb
+C:\Users\Pedro\Desktop\Projects\PruebaCoto\CORE\obj\Debug\net6.0\ref\CORE.dll

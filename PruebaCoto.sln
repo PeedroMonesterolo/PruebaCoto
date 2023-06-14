@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "PruebaCoto\API.csproj", "{7C7BFEBB-BAEB-48E1-92B3-3A802A315080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CORE", "CORE\CORE.csproj", "{B1B0EE3E-C7B5-43C5-BE47-39F1189DC298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INFRASTRUCTURE", "INFRASTRUCTURE\INFRASTRUCTURE.csproj", "{9CE36FEF-9846-4014-B36D-57ED6301E4CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C7BFEBB-BAEB-48E1-92B3-3A802A315080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7BFEBB-BAEB-48E1-92B3-3A802A315080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7BFEBB-BAEB-48E1-92B3-3A802A315080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7BFEBB-BAEB-48E1-92B3-3A802A315080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B0EE3E-C7B5-43C5-BE47-39F1189DC298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B0EE3E-C7B5-43C5-BE47-39F1189DC298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B0EE3E-C7B5-43C5-BE47-39F1189DC298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B0EE3E-C7B5-43C5-BE47-39F1189DC298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CE36FEF-9846-4014-B36D-57ED6301E4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE36FEF-9846-4014-B36D-57ED6301E4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE36FEF-9846-4014-B36D-57ED6301E4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE36FEF-9846-4014-B36D-57ED6301E4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC9B171E-F8CB-417F-B183-27D5684E62E3}
+	EndGlobalSection
+EndGlobal
